@@ -5,3 +5,4 @@
 - learn basic React 
 - learn about login system for Backend
 - duration 2 month only
+- learn git Strategy
